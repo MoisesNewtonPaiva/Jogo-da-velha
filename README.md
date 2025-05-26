@@ -21,8 +21,8 @@ O objetivo deste projeto é:
 Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clonar o repositório  
-   Comando: `git clone https://github.com/MoisesNewtonPaiva/jogo-da-velha.git`  
-   Depois acesse a pasta: `cd jogo-da-velha`
+   Comando: `git clone https://github.com/MoisesNewtonPaiva/Jogo-da-velha.git`  
+   Depois acesse a pasta: `cd Jogo-da-velha`
 
 2. Instalar as dependências  
    Comando: `npm install`
